@@ -3,13 +3,15 @@
 New York Airbnb Open Data
 https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 
+
+
+# Amazon Products
+160,000 amazon Products
+https://www.kaggle.com/datasets/shmalex/amazon-products
+
 # Customer Personality Analysis
 Analysis of company's ideal customers
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
-
-# https://www.kaggle.com/datasets/shmalex/amazon-products
-Amazon Products
-160,000 amazon Products
 
 
 
